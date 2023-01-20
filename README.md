@@ -7,9 +7,9 @@ https://github.com/giggls/gdal-ecw-plugin
 
 https://github.com/interob/libgdal-ecw
 
-Only slight modifications and the necessary files have been added to make it work on Linux Mint21 (= Ubuntu 22.04) with GDAL 3.4.1 installed from repositories.
+Only slight modifications and the necessary files have been added to make it work on Linux Mint21 / Ubuntu 22.04 with GDAL 3.4.1 installed from repositories.
 
-It is also possible to use it with other versions of gdal with some changes. 
+It is also possible to use it on other gdal versions with some tweaks.
 
 ## Download and run the ecw development kit 
 
