@@ -1,5 +1,5 @@
 _LEEME EN CASTELLANO [AQUI](README_es.md)_
-# Compiling and installing gdal ecw plugin on Linux Mint21 / Ubuntu 22.04
+# Compile and install gdal ecw plugin on Linux Mint21 / Ubuntu 22.04
 
 These are some personal memo notes. This repository is based on these two:
  
