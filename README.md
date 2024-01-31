@@ -21,7 +21,7 @@ It is also possible to use it on other gdal versions with some tweaks.
 
 ```
 chmod +x ./ECWJP2SDKSetup_5.5.0.2268.bin
-./ECWJP2SDKSetup_5.5.0.2268.bin --accept-eula=YES ---install-type=1
+./ECWJP2SDKSetup_5.5.0.2268.bin --accept-eula=YES --install-type=1
 ``` 
 
 ## Compile the plugin
